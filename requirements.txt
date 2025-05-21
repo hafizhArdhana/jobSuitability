@@ -6,3 +6,11 @@ neo4j
 pandas
 pyvis
 pdfplumber
+python-docx
+numpy
+scipy
+scikit-learn
+networkx
+matplotlib
+requests
+openpyxl
