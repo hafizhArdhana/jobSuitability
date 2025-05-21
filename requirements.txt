@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+torch
+google-generativeai
+neo4j
+pandas
+pyvis
